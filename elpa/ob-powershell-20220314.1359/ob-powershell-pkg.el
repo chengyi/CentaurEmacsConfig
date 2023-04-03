@@ -1,0 +1,2 @@
+;;; Generated package description from ob-powershell.el  -*- no-byte-compile: t -*-
+(define-package "ob-powershell" "20220314.1359" "Run Powershell from org mode source blocks" '((emacs "26.1")) :commit "f351429590ed68b26a9c8f9847066ca4205e524b" :authors '(("Rob Kiggen" . "robby.kiggen@essential-it.be")) :maintainer '("Mois Moshev" . "mois.moshev@bottleshipvfx.com") :keywords '("powershell" "shell" "execute" "outlines" "processes") :url "https://github.com/rkiggen/ob-powershell")
